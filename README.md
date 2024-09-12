@@ -21,4 +21,4 @@ This project showcases the development of a **solar-powered air purifier** that 
 
 ## Video:
 - **/video**: Demonstration video of the purifier in action.
-/Users/anoushkahazari/Downloads/BE Project/implementation/Video.Guru_20210313_102900208 (2022_11_27 19_52_55 UTC).mp4
+
