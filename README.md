@@ -21,4 +21,7 @@ This project showcases the development of a **solar-powered air purifier** that 
 
 ## Video:
 - **/video**: Demonstration video of the purifier in action.
+- https://github.com/user-attachments/assets/47055a32-a051-4b62-84a5-790faafb5d04
+
+
 
